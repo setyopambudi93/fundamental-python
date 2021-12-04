@@ -1,0 +1,10 @@
+Fungsi pada python
+- Kumpulan perintah atau baris kode yg dikelompokan
+- Bisa di panggil berkali-kali
+- Bisa menerima parameter
+- Bisa mengembalikan suatu nilai
+- Bisa dipanggil berkali-kali secara independen
+- Memecah program yang besar menjadi bagian-bagian kecil dengan tugasnya masing-masing
+
+Fungsi yang mengembalikan nilai adalah sebuah fungsi yag jika kita panggil dia akan memberikan kita sebuah nilai yang
+bisa kita olah lebih lanjut
